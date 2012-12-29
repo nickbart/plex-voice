@@ -1,0 +1,3 @@
+[submodule "php-plex"]
+	path = php-plex
+	url = /home/nick/bin/php-plex/
